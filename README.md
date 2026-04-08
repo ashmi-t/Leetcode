@@ -78,6 +78,7 @@
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ashmi-t/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/ashmi-t/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ashmi-t/Leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/ashmi-t/Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,6 +104,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/ashmi-t/Leetcode/tree/master/0169-majority-element) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/ashmi-t/Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -134,6 +136,7 @@
 | [2058-concatenation-of-array](https://github.com/ashmi-t/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ashmi-t/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/ashmi-t/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/ashmi-t/Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
