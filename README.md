@@ -79,6 +79,7 @@
 | [2585-delete-greatest-value-in-each-row](https://github.com/ashmi-t/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ashmi-t/Leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ashmi-t/Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/ashmi-t/Leetcode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,6 +106,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/ashmi-t/Leetcode/tree/master/0169-majority-element) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ashmi-t/Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/ashmi-t/Leetcode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
